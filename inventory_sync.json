@@ -1,0 +1,14 @@
+{
+    "assign_products": {
+            "item":[{
+                "sku": "AMAR103471",
+                "warehouse_id": 1,
+                "qty":15
+            },
+            {
+                "sku": "AMAL19730",
+                "warehouse_id": 1,
+                "qty":10
+            }]
+    }
+}
